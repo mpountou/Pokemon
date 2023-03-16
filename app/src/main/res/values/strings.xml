@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Pokemon</string>
+    <string name="loading_list">Loading Pokemon List</string>
+    <string name="loading_detail">Loading Pokemon Details</string>
+    <string name="pokemon_list">List of Pokemon</string>
+    <string name="weight">Weight</string>
+    <string name="height">Height</string>
+    <string name="retry">Retry</string>
+
+</resources>
